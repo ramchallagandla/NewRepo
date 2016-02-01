@@ -1,4 +1,5 @@
-﻿/// <reference path="_ref.ts" />
+﻿/// <reference path="../_ref.ts" />
+
 
 module SPA.Controllers {
     'use strict';

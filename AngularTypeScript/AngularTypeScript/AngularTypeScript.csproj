@@ -26,15 +26,15 @@
     <Content Include="index.html" />
     <Content Include="pages\forecast.html" />
     <Content Include="pages\home.html" />
-    <Content Include="Scripts\Content\bootstrap.css" />
+    <Content Include="Content\bootstrap.css" />
     <Content Include="web.config" />
   </ItemGroup>
   <ItemGroup>
-    <TypeScriptCompile Include="Scripts\app\forecastcontroller.ts" />
-    <TypeScriptCompile Include="Scripts\app\forecastservice.ts" />
-    <TypeScriptCompile Include="Scripts\app\homecontroller.ts" />
-    <TypeScriptCompile Include="Scripts\app\routeprovider.ts" />
-    <TypeScriptCompile Include="Scripts\app\weatherReportDirective.ts" />
+    <TypeScriptCompile Include="Scripts\app\controllers\forecastcontroller.ts" />
+    <TypeScriptCompile Include="Scripts\app\services\forecastservice.ts" />
+    <TypeScriptCompile Include="Scripts\app\controllers\homecontroller.ts" />
+    <TypeScriptCompile Include="Scripts\app\providers\routeprovider.ts" />
+    <TypeScriptCompile Include="Scripts\app\directives\weatherReportDirective.ts" />
     <TypeScriptCompile Include="Scripts\typings\angularjs\angular-animate.d.ts" />
     <TypeScriptCompile Include="Scripts\typings\angularjs\angular-cookies.d.ts" />
     <TypeScriptCompile Include="Scripts\typings\angularjs\angular-mocks.d.ts" />
