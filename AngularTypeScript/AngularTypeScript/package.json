@@ -1,0 +1,12 @@
+{
+	"version": "1.0.0",
+	"name": "ASP.NET",
+	"private": true,
+  "devDependencies": {
+    "angular": "~1.4.9",
+    "angular-route": "~1.4.9",
+    "angular-resource": "~1.4.9",
+    "systemjs": "~0.19.17",
+    "bootstrap-css-only": "~3.3.6"
+  }
+}
